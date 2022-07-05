@@ -75,6 +75,7 @@ struct ContentView: View {
             }
         } else {
             wrongUsername = 2
+            wrongPassword = 2
         }
     }
 }
